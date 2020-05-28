@@ -1,4 +1,4 @@
 # weatherapp
 javascript weatherapp
 
-(thanks @ Dev Ed)
+![alt text](https://github.com/nherman222/weatherapp/blob/master/example.png?raw=true)
